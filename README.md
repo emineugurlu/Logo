@@ -33,7 +33,8 @@ The project focuses on **Mascot-Centric Branding**:
 ## 📸 Design Showcase
 
 ### 📂 Final Logo Execution
-![Arı Kırtasiye Logo](https://github.com/user-attachments/assets/b9201f8a-928d-4f13-be8a-e99f6655c3c0)
+![Arı Kırtasiye Logo](<img width="666" height="375" alt="Emine_Logo" src="https://github.com/user-attachments/assets/edb73716-1cbf-4a4c-85e1-4128df744cde" />
+)
 
 ---
 
